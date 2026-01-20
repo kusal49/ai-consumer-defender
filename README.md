@@ -18,3 +18,5 @@ An Autonomous Legal Agent that fights for consumer rights. It uses **Llama 3 (Gr
 * **Tools:** Tavily Search API
 * **Frontend:** Streamlit
 
+## 🛠️ Deployed 
+https://lawyerdost.streamlit.app/
